@@ -1,0 +1,59 @@
+{
+  "rinkeby": {
+    "startMintId": 1,
+    "endMintId": 2000
+  },
+  "bsc-testnet": {
+    "startMintId": 2001,
+    "endMintId": 2400
+  },
+  "fuji": {
+    "startMintId": 2401,
+    "endMintId": 2800
+  },
+  "mumbai": {
+    "startMintId": 2801,
+    "endMintId": 3200
+  },
+  "arbitrum-rinkeby": {
+    "startMintId": 3201,
+    "endMintId": 3600
+  },
+  "optimism-kovan": {
+    "startMintId": 3601,
+    "endMintId": 4000
+  },
+  "fantom-testnet": {
+    "startMintId": 4001,
+    "endMintId": 4444
+  },
+
+  "ethereum": {
+    "startMintId": 1,
+    "endMintId": 200
+  },
+  "bsc": {
+    "startMintId": 201,
+    "endMintId": 2755
+  },
+  "polygon": {
+    "startMintId": 2756,
+    "endMintId": 4755
+  },
+  "avalanche": {
+    "startMintId": 4756,
+    "endMintId": 5255
+  },
+  "arbitrum": {
+    "startMintId": 5256,
+    "endMintId": 5355
+  },
+  "optimism": {
+    "startMintId": 5356,
+    "endMintId": 5455
+  },
+  "fantom": {
+    "startMintId": 5456,
+    "endMintId": 5555
+  }
+}
