@@ -2,7 +2,7 @@
 
 ### GeneX Project Smart Contract Deployment Workspace  🙌
 
-The GeneX Project is a layerzero NFT project. Briefly speaking of LayerZero, it is the technology by which NFTs can be traveled between networks. It offers the ability to travel your NFTs between 7 different blockchains covering Ethereum, BinanceSmartChain, Avalanche, Polygon, Arbitrum, Optimism and Phantom.
+The GeneX Project is a layerzero NFT project. I am founder and head of developing of GeneX Project. Briefly speaking of LayerZero, it is the technology by which NFTs can be traveled between networks. It offers the ability to travel your NFTs between 7 different blockchains covering Ethereum, BinanceSmartChain, Avalanche, Polygon, Arbitrum, Optimism and Phantom.
 
 The contract in GeneX_SmartContract/contracts/GeneX/GeneXProject.left is GeneXProject's smart contract.
 
